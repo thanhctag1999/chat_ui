@@ -1,0 +1,54 @@
+[
+  {
+    "author": {
+      "firstName": "Matthew",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac",
+      "lastName": "White",
+      "imageUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "createdAt": 5,
+    "id": "113bb2e8-f74e-42cd-aa30-4085a0f52c58",
+    "status": "seen",
+    "text": "Awesome! 😍",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Janice",
+      "id": "e52552f4-835d-4dbe-ba77-b076e659774d",
+      "imageUrl": "https://i.pravatar.cc/300?u=e52552f4-835d-4dbe-ba77-b076e659774d",
+      "lastName": "King"
+    },
+    "createdAt": 15,
+    "id": "afc2269a-374b-4382-8864-b3b60d1e8cd7",
+    "status": "seen",
+    "text": "Yeah! Together with Demna, Mark Hamill and others 🥰",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "John",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "Doe",
+      "imageUrl": "https://i.pravatar.cc/320"
+    },
+    "createdAt": 22,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c7b3",
+    "status": "seen",
+    "text": "Guys! Did you know Imagine Dragons became ambassadors for u24.gov.ua ?",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Patrick",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca",
+      "lastName": "Wilson",
+      "imageUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "createdAt": 41,
+    "id": "634b2f0b-2486-4bfe-b36d-1c7d6313c723",
+    "status": "seen",
+    "text": "Great seeing you",
+    "type": "text"
+  }
+]
